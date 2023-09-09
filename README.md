@@ -25,11 +25,10 @@
 - GET /conta/extrato (verifica o extrato de uma conta específica)
 
 
-
-  ### Tech Utilizadas
-  - Node.js: Ambiente de execução do JavaScript
-  - JavaScript: Linguagem de programação utilizada na confecção da API
-  - Insomnia: Ferramenta utilizada para teste das rotas da API
-  - Express: Framework usado para criação da api, permitindo criar servidores e rotas.
+### Tech Utilizadas
+- Node.js: Ambiente de execução do JavaScript
+- JavaScript: Linguagem de programação utilizada na confecção da API
+- Insomnia: Ferramenta utilizada para teste das rotas da API
+- Express: Framework usado para criação da api, permitindo criar servidores e rotas.
   
   
